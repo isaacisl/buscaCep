@@ -4,11 +4,10 @@ Mini projeto em Java para sistemas desktop (Windows, Linux ou MAC) que  busca au
 ![cep](https://github.com/professorjosedeassis/cep/blob/main/buscarCEP/src/img/buscarcep.png)
 
 
-:heavy_check_mark: Seguir-me nas redes sociais:
+Me segue ai 😎
 <p align="left">
-
 <a href="https://www.linkedin.com/in/isaac-siqueira-932781227/" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/linkedin.png" alt="isaacsiqueira" height="48" width="48" /></a>
-
 <a href="https://instagram.com/isac.java" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/instagram.png" alt="isac.java" height="48" width="48" /></a>
+</p>
 
 
